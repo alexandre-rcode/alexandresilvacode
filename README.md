@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alexandre.RCode 😁
+## Bem-vindo(a) ao perfil do Alexandre.RCode 😃
 
  <div>
    <a href="https://github.com/alexandre.rcode">
